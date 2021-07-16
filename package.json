@@ -2,7 +2,7 @@
   "name": "drift-big-e",
   "version": "1.0.0",
   "description": "",
-  "main": "10-web-apps-exercise.js",
+  "main": "11-web-apps-exercise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

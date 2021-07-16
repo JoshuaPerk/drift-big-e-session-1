@@ -14,8 +14,11 @@ const myName = 'Mickey Mouse'
 let myAge = 32
 
 myAge = myAge + 9
-// myName = 'Minnie Mouse'
 
 // Plus signs can be used to concatenate sentences.
 // If an integer is concatenated with a string, the whole thing will default to a string
+console.log('My name is ' + myName + ' and I am ' + myAge + ' years old.')
+
+myName = 'Minnie Mouse'
+
 console.log('My name is ' + myName + ' and I am ' + myAge + ' years old.')
